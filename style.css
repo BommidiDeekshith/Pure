@@ -1,0 +1,208 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+    
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right,#1f2e24,#1f2e24);
+/*    #1f2e24 ,#ffa230,#df7f09,#c87004*/
+    padding: 0 !important;
+}
+.navbar-brand
+{
+    height: 50px;
+    padding-left: 20px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars
+{
+    color: #fff ;
+    font-size: 30px !important;
+}
+
+.navbar-toggler
+{
+    outline: none !important;
+}
+
+/*---------BANNER-----------*/
+
+.promo-title
+{   color: white;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    top:50%;
+    left: 50%;
+}
+.fa-play-circle-o
+{
+color: #fff ;
+font-size: 20px !important;
+    
+}
+.down
+{
+    color: white;
+    font-size: 60px;
+}
+#banner a
+{
+    color:#000;
+    text-decoration: none;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-250%, -1600%);
+    color: white; 
+/* font-size: 50px;*/
+}
+.matter  {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-250%, -1500%);
+    
+}
+.container1 {
+  position: relative;
+  text-align: center;
+  color: #1f2e24;
+}
+
+/*
+body
+{
+    background:url(OrnageLine.png);
+    background:url(Background.png);
+    object-fit:none;
+}
+*/
+/*
+img
+{
+    float:left;
+}
+*/
+
+.pic
+{
+    float :left;
+}
+.pic2
+{
+    float:right;
+}
+
+.pictext
+{
+    color: #1f2e24;
+}
+.pictext2
+{
+    color: #1f2e24;
+    text-align: right;
+}
+.pictext21
+{
+    color: #1f2e24;
+    text-align:right;
+}
+
+.w3center
+{
+    text-align-last: center;
+}
+
+.aus1
+{
+    color:#1f2e24;
+    text-align: center;
+}
+.aus
+{
+    color:#1f2e24;
+    left: 50%;
+}
+.ausimg
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+    height: 10%;
+}
+
+#social-media
+{
+    background: #fff;
+/*    padding:30px 0;*/
+}
+
+#social-media p
+{
+font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img
+{
+    width:40px;
+    transition: 0.5s;
+}
+
+.social-icons a:hover img
+{
+    transform: translateY(-20px);
+}
+.conttext
+{
+    text-align: center;
+    color: #1f2e24;
+}
+/*
+.det
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    background: #d8cabe;
+*/
+/*
+  width: 20%;
+height: 10%; 
+}
+*/
+
+
+
+
